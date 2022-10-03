@@ -1,0 +1,19 @@
+h1 {
+    font-family: sans-serif;;
+  }
+  
+  h4 {
+    margin-bottom: 0;
+    background-color: #05ffb0;
+
+  }
+  
+  ul, ol {
+    margin-top: 0;
+  }
+  
+  .copyright {
+    font-family: Arial;
+    font-size: 9px;
+    font-style: italic;
+  }
