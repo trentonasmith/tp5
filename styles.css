@@ -14,6 +14,11 @@ h1 {
   
   .copyright {
     font-family: Arial;
-    font-size: 9px;
+    font-size: 25px;
     font-style: italic;
   }
+
+  #recipeColumns div#ingredients { flex-basis: 28%; }
+ #recipeColumns div#equipment { flex-basis: 20%; }
+ #recipeColunns div#directions { flex-basis: 50%; }
+  #recipeColumns #ingredients ul { display: none; }
